@@ -4,5 +4,5 @@ Developed with Unreal Engine 4
 
 Credits:
 Artists:
-Programers: George Bauer, 
+Programers: George Bauer, Shawn Prather 
 Designers:
